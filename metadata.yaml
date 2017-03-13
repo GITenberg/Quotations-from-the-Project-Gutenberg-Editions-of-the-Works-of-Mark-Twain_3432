@@ -1,5 +1,5 @@
 _repo: Quotations-from-the-Project-Gutenberg-Editions-of-the-Works-of-Mark-Twain_3432
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editor:
@@ -7,6 +7,9 @@ contributor:
       birthdate: 1932
       gutenberg_agent_id: '1961'
       url: http://www.gutenberg.org/2009/agents/1961
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Twain, Mark
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53
     wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3432#Quotations-from-the-Project-Gutenberg-Editions-of-the-Works-of-Mark-Twain
 gutenberg_bookshelf: Project Gutenberg
 gutenberg_issued: '2002-09-01'
 gutenberg_type: Text
