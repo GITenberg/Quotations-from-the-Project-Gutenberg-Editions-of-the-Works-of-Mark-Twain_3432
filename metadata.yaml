@@ -1,5 +1,5 @@
 _repo: Quotations-from-the-Project-Gutenberg-Editions-of-the-Works-of-Mark-Twain_3432
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -36,5 +36,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PS'
 - !lcsh 'Quotations'
+- GITenberg
 title: Quotations from the Project Gutenberg Editions of the Works of Mark Twain
 url: http://www.gutenberg.org/ebooks/3432
